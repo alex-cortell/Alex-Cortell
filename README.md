@@ -19,7 +19,7 @@ Always curious, always learning.
 
 **Systems, Infrastructure & Networking**
 
-[![Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,docker,bash,powershell)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,docker,bash,grafana,powershell)](https://skillicons.dev)
 
 **Databases & Development Tools**
 
