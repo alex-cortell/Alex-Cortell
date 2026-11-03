@@ -1,31 +1,62 @@
 # Hi, I'm Alex Cortell 👋
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-cortell)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex-cortell)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-I'm an **IT Systems and Network Administration Student** from València, Spain 🇪🇸.
+I'm an **IT Systems and Network Administration Student** based in València, Spain 🇪🇸.
 
-I'm passionate about technology, programming, system administration and cybersecurity. I enjoy building projects, exploring new technologies and learning something new every day.
+Passionate about **system administration, networking, software development and cybersecurity**. I enjoy building practical projects, exploring new technologies and developing solutions that combine infrastructure, automation and software.
+
+Always curious, always learning.
+
+---
 
 ## 💻 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,python,flask,js,php,mysql,powershell,bash,git,github,docker,linux,ubuntu,windows,vscode)](https://skillicons.dev)
+**Programming & Web Development**
 
-## 🚀 My Main Projects
+[![Skills](https://skillicons.dev/icons?i=python,java,html,css,js,php,flask)](https://skillicons.dev)
 
-- [**`global-status`**](https://github.com/alex-cortell/global-status): Infrastructure monitoring system using Docker, MQTT, InfluxDB and Grafana.
-- [**`moodle-alex`**](https://github.com/alex-cortell/moodle-alex): Moodle deployment and configuration using Docker and MariaDB.
-- [**`construcciones-nova`**](https://github.com/alex-cortell/construcciones-nova): Website development project using WordPress, HTML and CSS.
-- [**`Construcciones Nova – Flask`**](https://github.com/alex-cortell/Construcciones-nova-Flask): Web application developed with Python and Flask, including templates, forms and user registration.
+**Systems, Infrastructure & Networking**
 
+[![Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,docker,bash,powershell)](https://skillicons.dev)
+
+**Databases & Development Tools**
+
+[![Skills](https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode)](https://skillicons.dev)
+
+---
+
+## 🚀 Featured Projects
+
+### Infrastructure & Systems
+
+- [**`global-status`**](https://github.com/alex-cortell/global-status)  
+  Infrastructure monitoring platform built with Docker, MQTT, InfluxDB and Grafana.
+
+- [**`moodle-alex`**](https://github.com/alex-cortell/moodle-alex)  
+  Moodle deployment and administration using Docker, MariaDB and containerized services.
+
+### Web Development
+
+- [**`Construcciones Nova`**](https://github.com/alex-cortell/construcciones-nova)  
+  Website developed with WordPress, featuring business content, services and e-commerce functionality.
+
+- [**`Construcciones Nova – Flask`**](https://github.com/alex-cortell/Construcciones-nova-Flask)  
+  Web application developed with Python and Flask, including templates, forms and user registration.
+
+---
 
 ## ⚙️ Areas of Interest
 
-- System Administration (Linux & Windows Server)
-- Networking and Infrastructure
-- Docker & Virtualization
-- Web Development (Python, Flask, HTML & CSS)
-- Cybersecurity & Ethical Hacking
-- Monitoring and Automation
+- **System Administration:** Linux, Windows Server and infrastructure management.
+- **Networking:** Network configuration, services and troubleshooting.
+- **DevOps & Virtualization:** Docker, containers and virtual machines.
+- **Web Development:** Python, Flask, HTML, CSS and JavaScript.
+- **Cybersecurity:** Ethical hacking, Linux security and system protection.
+- **Monitoring & Automation:** Grafana, MQTT and infrastructure monitoring.
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -37,8 +68,7 @@ I'm passionate about technology, programming, system administration and cybersec
 ---
 
 <p align="center">
-  <i>Always learning, building and improving.</i> 🚀
+  <i>Building. Learning. Improving.</i>
+  <br/>
+  <sub>Thanks for visiting my profile!</sub>
 </p>
-<!--
-**alex-cortell/Alex-Cortell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
