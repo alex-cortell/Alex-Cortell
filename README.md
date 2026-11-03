@@ -47,14 +47,6 @@ Always curious, always learning.
 
 ---
 
-## ⚙️ Areas of Interest
-
-- **System Administration:** Linux, Windows Server and infrastructure management.
-- **Networking:** Network configuration, services and troubleshooting.
-- **DevOps & Virtualization:** Docker, containers and virtual machines.
-- **Web Development:** Python, Flask, HTML, CSS and JavaScript.
-- **Cybersecurity:** Ethical hacking, Linux security and system protection.
-- **Monitoring & Automation:** Grafana, MQTT and infrastructure monitoring.
 
 ---
 
