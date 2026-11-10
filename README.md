@@ -50,11 +50,12 @@ Always curious, always learning.
 
 ---
 
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex-cortell&theme=github_dark" width="100%" />
+  <img src="https://ghstats.dev/api/card?username=alex-cortell&theme=github&cache_seconds=1800" width="100%" />
 </p>
 
-<p align="center">
-</p>
+
